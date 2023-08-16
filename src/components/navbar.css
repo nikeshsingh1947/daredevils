@@ -1,0 +1,7 @@
+.navlink-container>div{
+color:white;
+}
+.navlink-container>div:hover{
+    cursor: pointer;
+    color:rgb(68, 68, 188);
+}

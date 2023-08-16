@@ -1,0 +1,20 @@
+/* FloatingButton.css */
+.floating-button {
+    position: fixed;
+    margin-bottom:20%;
+    bottom: 20px;
+    right: 20px;
+    background-color: #1abc9c;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    padding: 10px 15px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .floating-button:hover {
+    background-color: #16a085;
+  }
+  
