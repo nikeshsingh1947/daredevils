@@ -2,10 +2,10 @@
 import React from 'react';
 import './FloatButton.css';
 
-const FloatButton = ({ onClick, icon }) => {
+const FloatButton = ({ onClick}) => {
   return (
     <button className="floating-button" onClick={onClick}>
-      "Cllick Me"
+      "REGISTER"
     </button>
   );
 };

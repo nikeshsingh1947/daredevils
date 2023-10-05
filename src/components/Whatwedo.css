@@ -117,4 +117,13 @@
       grid-column-gap: 40px;
     }
   }
+  @media only screen and (min-width:0px) and (max-width:377px) {
+    .cards {
+      grid-auto-columns: calc(50% - 10px);
+      grid-column-gap: 20px;
+    }
+    .Slider-container{
+      margin-top: -50%;
+    }
+  }
   

@@ -57,7 +57,7 @@ const changetext6=()=>{
           
             <Box id="text-cont">
                <Box><h2 id="bl-top">{topic}</h2></Box>
-                <Box><h3 id="bl-H3">{textbody}</h3></Box>
+                <Box id="stand_para"><h3 id="bl-H3">{textbody}</h3></Box>
             </Box>
         </Box>
     )

@@ -8,7 +8,7 @@ const FlipCard = ({ image,caption,title ,para }) => {
   const handleCardFlip = () => {
     setIsFlipped(!isFlipped);
   };
-
+ 
   return (
     <div
       className={`flip-card ${isFlipped ? 'flipped' : ''}`}

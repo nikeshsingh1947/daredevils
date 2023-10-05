@@ -4,8 +4,8 @@ import RhombusButton from "./TraiButton";
 import "./Ourservices.css";
 export const Ourservices = () => {
   return (
-    <Box>
-      <div id="mainzigzag" style={{"margin-top":"10%"}} className="mainzig_model">
+    <Box id="mainOurservices">
+      <div id="mainzigzag" style={{"margin-top":"50%"}} className="mainzig_model">
         <dvi className="floating-div_whatsnew">
           <h1>OUR SERVICES</h1>
         </dvi>

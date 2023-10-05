@@ -20,8 +20,9 @@ import { Ourservices } from './components/Ourservices';
 import { Stands } from './components/Stands';
 import { Previusevent } from './components/Previusevent';
 import { Ourpartner } from './components/Ourpartners';
-import YourComponent from './components/animatedtxt';
-import XrayCursor from './components/XrayCursor';
+import { Home } from './components/Pages/Home';
+import { Allroutes } from './components/Allroutes';
+
 // import EventCalendar from './components/Eventcalendar';
 function App() {
   // const handleButtonClick = () => {
@@ -38,24 +39,15 @@ function App() {
       <AnimatedCursor innerSize={20}
       outerSize={16} color='255,51,52'/>
       <NavbarComponent/>
-      <SliderComponent/>
-      <ZigzagLine/>
-      <WhatsNew/>
-      <Whatwedo/>
-      <Ourmodel/>
-      <Ourservices/>
-      <Stands/>
-      <BackgroundText/>
-      <Previusevent/>
-      <XrayCursor/>
-      <Ourpartner/>
+      
+      <Allroutes/>
      
       {/* <YourComponent/> */}
       {/* <FlipCard/>
       <FloatButton onClick={handleButtonClick} icon="+" />
       <RohmbusButton onClick={handleButtonClick1} text="Click"/>
       <EventCalendar/> */}
-      <Footer/>
+      
     </div>
   );
 }

@@ -5,7 +5,7 @@ import RhombusButton from "./TraiButton";
 export const Whatwedo = () => {
   return (
     <Box>
-      <div id="mainzigzag">
+      <div id="mainzigzag" >
         <dvi className="floating-div_whatsnew">
           <h1>WHAT WE DO </h1>
         </dvi>

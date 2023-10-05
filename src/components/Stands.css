@@ -21,7 +21,7 @@
   .middle-heading
     {  
       position: absolute;
-      top: 50.5%;
+      top: 59.5%;
       left: 50%;
       transform: translate(-50%, -50%);
     }
@@ -140,6 +140,32 @@
     100% {
       transform: translateX(0);
       opacity: 1;
+    }
+  }
+
+  @media only screen and (min-width:0px) and (max-width:377px) {
+    .hex{
+      margin-top: 10%;
+     margin-left: -10%;
+    }
+    #text-cont{
+      display: grid;
+      grid-template-columns: repeat(1,1fr);
+      margin-left: 10%;
+    }
+    #text-cont>div{
+       width:100%
+    }
+    #stand_para{
+      margin-top: -20%;
+    }
+    .middle-heading{
+      top: 45%;
+      left: 45%;
+      transform: translate(-50%, -50%);
+    }
+    .text-heading{
+      font-size: 16px;
     }
   }
   

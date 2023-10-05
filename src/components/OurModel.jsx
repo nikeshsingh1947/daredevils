@@ -5,7 +5,7 @@ import "./Ourmodel.css"
 export const Ourmodel=()=>{
 
     return(
-        <Box>
+        <Box id="ourmodalmain">
              <div id="mainzigzag" style={{"margin-top":"10%"}} className="mainzig_model">
     <dvi className="floating-div_whatsnew" ><h1>OUR MODEL</h1></dvi>   
     <div className="zigzag-container">  

@@ -7,6 +7,13 @@ import './SliderComponent.css';
 import { Box ,Text} from '@chakra-ui/react';
 import Type from './Type';
 import FloatingDiv from './FloatingDiv';
+import SLideImage1 from "./Assets/DSC_0076.jpg"
+import SLideImage2 from "./Assets/DSC_0001.jpg"
+import SLideImage3 from "./Assets/DSC_0107.jpg"
+import SLideImage4 from "./Assets/DSC_0192.jpg"
+import SLideImage5 from "./Assets/DSC_9931.jpg"
+import SLideImage6 from "./Assets/DSC_0889.jpg"
+import SLideImage7 from "./Assets/DSC_0912.jpg"
 const SliderComponent = () => {
   const settings = {
     dots: true,
@@ -22,17 +29,32 @@ const SliderComponent = () => {
      
       <Slider {...settings}> 
         <div className="slide"  >
-          <img src="https://images.unsplash.com/photo-1524785281156-c3c68d1e03c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80" alt="Slide 1" />
+          <img src={SLideImage3} alt="Slide 1" />
           <div className="caption"></div>
           
         </div>
         <div className="slide" >
-          <img src="https://images.unsplash.com/photo-1529801231037-d67f3dce5d89?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80" alt="Slide 2" />
+          <img  src={SLideImage2} alt="Slide 2" />
           <div className="caption"></div>
          
         </div>
         <div className="slide" >
-          <img src="https://plus.unsplash.com/premium_photo-1672256943920-9df2f090f8f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=876&q=80" alt="Slide 3" />
+          <img src={SLideImage4} alt="Slide 3" />
+          <div className="caption"></div>
+          
+        </div>
+        <div className="slide" >
+          <img src={SLideImage5} alt="Slide 3" />
+          <div className="caption">iiiiiiiii</div>
+          
+        </div>
+        <div className="slide" >
+          <img src={SLideImage6} alt="Slide 3" />
+          <div className="caption">iiiiiiiii</div>
+          
+        </div>
+        <div className="slide" >
+    <img src={SLideImage7} alt="Slide 3" />
           <div className="caption">iiiiiiiii</div>
           
         </div>
