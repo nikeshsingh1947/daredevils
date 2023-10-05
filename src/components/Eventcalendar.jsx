@@ -1,6 +1,6 @@
 // EventCalendar.js
-import React, { useState } from "react";
-import { Box, Center, Image, Text } from "@chakra-ui/react";
+import React from "react";
+import { Box, Image, Text } from "@chakra-ui/react";
 import "./Eventcalender.css";
 import EventImage1 from "./Assets/DSC_0761 - Copy - Copy.jpg";
 import EventImage2 from "./Assets/DSC_0819.jpg";

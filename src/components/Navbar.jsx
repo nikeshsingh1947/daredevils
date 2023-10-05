@@ -1,12 +1,12 @@
 // NavbarComponent.js
 import React from 'react';
-import { Flex, Spacer, IconButton, useDisclosure, Box,Image } from '@chakra-ui/react';
+import { Flex,  Box,Image } from '@chakra-ui/react';
 import { Link } from "react-router-dom";
-import { HamburgerIcon } from '@chakra-ui/icons';
+
 import DareLogo from "./images/thedaredevils logo.png";
 import "./navbar.css";
 const NavbarComponent = () => {
-  const { isOpen, onOpen, onClose } = useDisclosure();
+ 
   return (
     <Flex bg="rgb(36,37,42)" p="4">
       <Box id='darelogo-container'><Image width={"150px"} height={"60px"} src={DareLogo}/></Box>

@@ -1,4 +1,4 @@
-import { Container, chakra, shouldForwardProp } from '@chakra-ui/react';
+
 import "./Whydare.css"
 // import { motion, isValidMotionProp } from 'framer-motion';
 // const ChakraBox = chakra(motion.div, {

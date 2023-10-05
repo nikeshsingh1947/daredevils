@@ -2,8 +2,7 @@ import { Box, Text } from "@chakra-ui/react";
 import React from "react";
 import "./BackgroundText.css";
 import { TextAnimation } from "./Whydare";
-import BaseCard from "./Scrollcard";
-import Boxcard from "./Boxcard";
+
 
 export const BackgroundText = () => {
   return (

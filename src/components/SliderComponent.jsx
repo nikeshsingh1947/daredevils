@@ -4,10 +4,9 @@ import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import './SliderComponent.css';
-import { Box ,Text} from '@chakra-ui/react';
-import Type from './Type';
+
 import FloatingDiv from './FloatingDiv';
-import SLideImage1 from "./Assets/DSC_0076.jpg"
+
 import SLideImage2 from "./Assets/DSC_0001.jpg"
 import SLideImage3 from "./Assets/DSC_0107.jpg"
 import SLideImage4 from "./Assets/DSC_0192.jpg"

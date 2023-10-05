@@ -1,7 +1,7 @@
 import React from 'react';
 import './FloatingDiv.css'; // Make sure to create the CSS file for styling
 import Type from './Type';
-import { Box ,Flex,Text} from '@chakra-ui/react';
+import { Box ,Text} from '@chakra-ui/react';
 import RhombusButton from './TraiButton';
 
 const FloatingDiv = () => {

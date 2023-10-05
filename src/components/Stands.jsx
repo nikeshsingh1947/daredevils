@@ -1,4 +1,4 @@
-import { Box, Text, useDisclosure,Button } from "@chakra-ui/react";
+import { Box,Button } from "@chakra-ui/react";
 import React, { useState } from "react";
 import"./Stands.css"
 

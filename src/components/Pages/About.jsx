@@ -1,4 +1,4 @@
-import { Box, Image, Img } from "@chakra-ui/react";
+import { Box, Image } from "@chakra-ui/react";
 import React from "react";
 import "./About.css";
 import Aboutimg1 from "../Assets/DSC_9968.jpg";
