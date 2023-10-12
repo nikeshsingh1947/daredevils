@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25151253.css",
+    "main.js": "/static/js/main.8490505b.js",
+    "static/js/787.0caf7b66.chunk.js": "/static/js/787.0caf7b66.chunk.js",
+    "static/media/DSC_9953.jpg": "/static/media/DSC_9953.2c7ed2da41bd0d0752ac.jpg",
+    "static/media/DSC_9931.jpg": "/static/media/DSC_9931.a5e406b2bebfbf7ed179.jpg",
+    "static/media/DSC_0072.jpg": "/static/media/DSC_0072.0666bea5e50f4beaa693.jpg",
+    "static/media/MRP01058.jpg": "/static/media/MRP01058.3f61d2382f2d83dca606.jpg",
+    "static/media/DSC_0001.jpg": "/static/media/DSC_0001.1c3175a64751eb60aa7f.jpg",
+    "static/media/DSC_0192.jpg": "/static/media/DSC_0192.548b902077580ff99662.jpg",
+    "static/media/DSC_1143.jpg": "/static/media/DSC_1143.f927e3b5537d210099f1.jpg",
+    "static/media/DSC_9968.jpg": "/static/media/DSC_9968.767240bfaf481560090b.jpg",
+    "static/media/DSC_0107.jpg": "/static/media/DSC_0107.56b33110b0c84fa0cba2.jpg",
+    "static/media/DSC_0764 - Copy (2).jpg": "/static/media/DSC_0764 - Copy (2).f864611146b01d1da76e.jpg",
+    "static/media/DSC_0912.jpg": "/static/media/DSC_0912.40f0cdd2372035f404ca.jpg",
+    "static/media/DSC_0889.jpg": "/static/media/DSC_0889.44b76090f95ba2921748.jpg",
+    "static/media/DSC_0819.jpg": "/static/media/DSC_0819.54929589ac5cb90a1370.jpg",
+    "static/media/DSC_0876.jpg": "/static/media/DSC_0876.b577992ad631e8c99428.jpg",
+    "static/media/DSC_0176.jpg": "/static/media/DSC_0176.e13b9b9c62813f026b16.jpg",
+    "static/media/DSC_0761 - Copy - Copy.jpg": "/static/media/DSC_0761 - Copy - Copy.ce6a9675a095ddb40f3e.jpg",
+    "static/media/0813About.jpg": "/static/media/0813About.3edca5aef558b57a6c26.jpg",
+    "static/media/thedaredevils logo.png": "/static/media/thedaredevils logo.2e378357b5163979b358.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.25151253.css.map": "/static/css/main.25151253.css.map",
+    "main.8490505b.js.map": "/static/js/main.8490505b.js.map",
+    "787.0caf7b66.chunk.js.map": "/static/js/787.0caf7b66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25151253.css",
+    "static/js/main.8490505b.js"
+  ]
+}
